@@ -15,9 +15,9 @@ Built to support DevOps, SRE, and cloud engineering teams, this repo provides re
 - 📦 Container & Serverless Support – For Docker, Kubernetes, Lambda, and more.
 
 # 🌐 Supported Cloud Providers
-✅ AWS
-✅ Google Cloud Platform (GCP)
-✅ Microsoft Azure
+- ✅ AWS
+- ✅ Google Cloud Platform (GCP)
+- ✅ Microsoft Azure
 
 # 📁 Repository Structure
 ![image](https://github.com/user-attachments/assets/ab41c7b7-1959-4460-a0c7-7b036e60f418)
@@ -28,7 +28,7 @@ Built to support DevOps, SRE, and cloud engineering teams, this repo provides re
 - Architecture Diagram
 
 # 🧪 Use Cases
-Multi-environment cloud infrastructure (Dev → Staging → Prod)
-Container orchestration (ECS, EKS, GKE)
-Cloud-native app hosting with monitoring and alerting
-CI/CD infrastructure pipelines  
+- Multi-environment cloud infrastructure (Dev → Staging → Prod)
+- Container orchestration (ECS, EKS, GKE)
+- Cloud-native app hosting with monitoring and alerting
+- CI/CD infrastructure pipelines  
